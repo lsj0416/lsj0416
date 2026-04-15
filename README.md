@@ -4,7 +4,7 @@
 
 <br/>
 
-![Visitors](https://visitor-badge.liter.workers.dev/badge?page_id=lsj0416.lsj0416)
+![Profile Views](https://komarev.com/ghpvc/?username=lsj0416&color=blueviolet&style=flat-square&label=Profile+Views)
 [![GitHub followers](https://img.shields.io/github/followers/lsj0416?label=Followers&style=social)](https://github.com/lsj0416)
 
 </div>
@@ -57,8 +57,8 @@
 
 <div align="center">
 
-![lsj0416's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lsj0416&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsj0416&layout=compact&theme=tokyonight&hide_border=true)
+![lsj0416's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=lsj0416&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lsj0416&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
